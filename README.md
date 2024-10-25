@@ -40,8 +40,8 @@ bash
 
     bash
 
-    git clone https://github.com/ChidexWorld/<repo-name>.git
-    cd <repo-name>
+    git clone https://github.com/ChidexWorld/Snap.git
+    cd Snap
 
     Open index.html in your browser to view the project.
     Make changes in styles.css or script.js and refresh to see updates.
